@@ -1,0 +1,38 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: blueviolet;
+    border-radius: 5px;    
+}
+
+main button {
+    border-radius: 10px;
+    border-color: #16161d;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main input {
+    border-radius: 10px;
+}
+
+main h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+    text-align: center;    
+}
+
+body {
+    background-color: red;
+}
